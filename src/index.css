@@ -1,4 +1,6 @@
 body {
+  background-image: url("https://media1.tenor.com/images/a866d1334a0a635eeda88c371caee50a/tenor.gif?itemid=16660839");
+  background-color: #cccccc;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -11,3 +13,5 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
